@@ -1,2 +1,2 @@
-let word = "Git is Awesome!";
-console.log(word);
+let name = prompt("What is your name?");
+alert(`Hello ${name}!`);
